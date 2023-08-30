@@ -12,7 +12,6 @@ This repository contains the code for a person face classification task using th
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Usage](#usage)
-- [Installation](#installation)
 - [License](#license)
 
 ## Dataset
@@ -47,9 +46,4 @@ To use this project, follow these steps:
   ![Person3_mask](https://github.com/a-r-p-i-t/U-Net/assets/99071325/7a8e65ac-eb72-48fa-856f-d64094100cef)
 5. Train the model: Execute `train.py` to train the U-Net model on the preprocessed data.
 
-## Installation
 
-To install the necessary dependencies, use the following command:
-
-```bash
-pip install -r requirements.txt
